@@ -1,0 +1,21 @@
+{
+  "data": {
+    "products": [
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+        "currencyId": "USD",
+        "description": "14/15 s/nº",
+        "id": 0,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 10.9,
+        "sku": 8552515751438644,
+        "style": "White T-shirt",
+        "title": "Cropped Stay Groovy off white",
+        "ourprice":20
+      }
+
+    ]
+  }
+}

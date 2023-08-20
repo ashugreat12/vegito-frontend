@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-packageName="com.package.app.android" android-versionCode="2000" id="com.package.vegito" version="2.0" xmlns="w3.org/ns/widgets"; xmlns:cdv="cordova.apache.org/ns/1.0">
+  <preference name="android-versionCode" value="2" />
+    <preference name="version" value="2.0.0" />
+  <access origin="*" />
+  
+  
+</widget>

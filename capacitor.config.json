@@ -1,0 +1,23 @@
+{
+    "appId": "io.ionic.vegito",
+    "appName": "Vegito",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {},
+    "plugins": {
+      "SplashScreen": {
+        "launchAutoHide": false,
+        "backgroundColor": "#ffffff",
+        "androidSplashResourceName": "splash",
+        "androidScaleType": "CENTER_CROP",
+        "androidStatusBarColor": "#ffffff",
+        "iosSplashResourceName": "splash",
+        "showSpinner": false
+      }
+    },
+    "resources": {
+      "icon": "./vegito.png",  
+      "splash": "./vegito.png"
+    }
+  }
